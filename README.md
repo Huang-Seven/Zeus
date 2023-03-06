@@ -128,5 +128,5 @@ Support modern browsers, not IE
 | not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
 ## License
-
+whf
 [MIT](./LICENSE)
